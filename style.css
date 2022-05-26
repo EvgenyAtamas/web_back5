@@ -1,0 +1,14 @@
+form {
+		width: 600px;
+    background: rgb(163, 239, 187);
+    border-radius: 8px;
+    margin: 50px auto;
+    padding: 30px;
+    min-height: 500px;
+	}
+    
+body {
+	  background-color: rgb(79, 173, 93);
+    margin: 0;
+    padding: 0;
+  }
